@@ -13,6 +13,7 @@
 		9DD65F8A1E7E41D00074EC07 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DD65F891E7E41D00074EC07 /* Images.xcassets */; };
 		9DD65F8D1E7E41D00074EC07 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DD65F8B1E7E41D00074EC07 /* LaunchScreen.xib */; };
 		9DD65F991E7E41D00074EC07 /* Save_ty_UserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD65F981E7E41D00074EC07 /* Save_ty_UserTests.swift */; };
+		9DD65FA31E7E49A30074EC07 /* AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD65FA21E7E49A30074EC07 /* AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9DD65F921E7E41D00074EC07 /* Save-ty_UserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Save-ty_UserTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DD65F971E7E41D00074EC07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DD65F981E7E41D00074EC07 /* Save_ty_UserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Save_ty_UserTests.swift; sourceTree = "<group>"; };
+		9DD65FA21E7E49A30074EC07 /* AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		9DD65F741E7E41D00074EC07 = {
 			isa = PBXGroup;
 			children = (
+				9DD65FA21E7E49A30074EC07 /* AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png */,
 				9DD65F7F1E7E41D00074EC07 /* Save-ty_User */,
 				9DD65F951E7E41D00074EC07 /* Save-ty_UserTests */,
 				9DD65F7E1E7E41D00074EC07 /* Products */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DD65FA31E7E49A30074EC07 /* AAEAAQAAAAAAAAdPAAAAJDhjNWI3MWQ1LTdhN2ItNDNhZi1hMDkwLWZjMTkxZTU4MTFhNw.png in Resources */,
 				9DD65F881E7E41D00074EC07 /* Main.storyboard in Resources */,
 				9DD65F8D1E7E41D00074EC07 /* LaunchScreen.xib in Resources */,
 				9DD65F8A1E7E41D00074EC07 /* Images.xcassets in Resources */,
@@ -405,6 +409,7 @@
 				9DD65F9E1E7E41D00074EC07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9DD65F9F1E7E41D00074EC07 /* Build configuration list for PBXNativeTarget "Save-ty_UserTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				9DD65FA11E7E41D00074EC07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
