@@ -20,6 +20,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+   
+    @IBAction func returnVehicle(sender: UIButton) {
+        println("return vehicle")
+        // TODO: send vehicle ID to server
+        // TODO: update customer reward center if recent trip was not flagged
+        //
+    }
+    
+    
     
 
 
